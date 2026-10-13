@@ -35,22 +35,16 @@ The wheel was developed as a computational model in SolidWorks. The views below 
 
 ## Tools Used
 
-| No  | Name |
-| :-: | :--: |
-| 01  |      |
-| 02  |      |
-| 03  |      |
-| 04  |      |
-| 05  |      |
-| 06  |      |
-| 07  |      |
-| 08  |      |
-| 09  |      |
-| 10  |      |
+| No  |    Name     |
+| :-: | :---------: |
+| 01  |   Revolve   |
+| 02  | Cut Extrude |
 
 ---
 
 ## Image of the Tool Used
+
+![Image of the Tool Used](images/wheel_tool_used.png)
 
 ---
 
