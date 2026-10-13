@@ -1,13 +1,12 @@
-# Concept Design Prototype of a Wheel
+# A Grooved Solid Wheel with a Rounded Rim and a Five-Hole Disc
 
 ## Summary
 
----
+The wheel is one of the most basic and important inventions in engineering. It carries loads, reduces friction, and turns rotation into movement, and it is found in nearly every machine that rolls. This project explores how a simple wheel can be modeled computationally, from its rim to its hub.
 
-## Design Motivation
+The model is a solid wheel with a smooth, rounded rim that works like a tire tread. A narrow groove runs around the outer surface of the rim and divides it visually. The central disc is slightly recessed and has five holes arranged evenly around a raised hub in the middle, which reduce weight and give the wheel a recognizable look. The main challenge was to blend the curved rim into the flat disc smoothly and to place the five holes at equal spacing around the center.
 
-| Name | Image |
-| :--: | :---: |
+The wheel was developed as a computational model in SolidWorks. The views below show the rim, the groove, and the disc from every side, along with a section view that shows how the profile is built. This prototype is a base concept design that can be developed further into a wheel with a defined tire, bearing, and axle. Defining the wheel size and load rating properly is an important step before it can be used on a real vehicle.
 
 ---
 
@@ -26,11 +25,32 @@
 
 ---
 
-## Technologies Used
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  | Name |
+| :-: | :--: |
+| 01  |      |
+| 02  |      |
+| 03  |      |
+| 04  |      |
+| 05  |      |
+| 06  |      |
+| 07  |      |
+| 08  |      |
+| 09  |      |
+| 10  |      |
+
+---
+
+## Image of the Tool Used
 
 ---
 
