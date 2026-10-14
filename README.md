@@ -42,7 +42,7 @@ The wheel was developed as a computational model in SolidWorks. The views below 
 
 ---
 
-## Image of the Tool Used
+## Feature Tree
 
 ![Image of the Tool Used](images/wheel_tool_used.png)
 
