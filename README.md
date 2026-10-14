@@ -76,3 +76,9 @@ The wheel was modeled as geometry only. Hub, spokes or disc, and rim dimensions 
 [^1]: [Wheels](https://technav.ieee.org/topic/wheels/)
 
 [^2]: [Industrial wheels for internal transport in the automotive industry](https://scidar.kg.ac.rs/handle/123456789/22137)
+
+---
+
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
